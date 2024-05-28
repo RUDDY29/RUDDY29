@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
 <h2 align="center">"Passionate MERN Stack Engineer & Competitive Programmer | Expert in Data Structures and Algorithms"</h2>
 
-<h3 align="center">With a strong foundation in Data Structures and Algorithms, I thrive on solving complex problems and building efficient, scalable web applications.<br>
+<p>With a strong foundation in Data Structures and Algorithms, I thrive on solving complex problems and building efficient, scalable web applications.<br>
   
 💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React.js, and Node.js. I enjoy crafting full-stack applications that are both robust and user-friendly. <br>
 🏆 Competitive Coder: Active in the competitive programming community, consistently participating in contests on platforms like Codeforces, LeetCode, and HackerRank. I love the challenge of algorithmic problem-solving and continually strive to improve my skills. <br>
-📚 Lifelong Learner: Constantly exploring new technologies and methodologies to stay at the cutting edge of web development and software engineering.</h3>
+📚 Lifelong Learner: Constantly exploring new technologies and methodologies to stay at the cutting edge of web development and software engineering.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddy29&label=Profile%20views&color=0e75b6&style=flat" alt="ruddy29" /> </p>
 
