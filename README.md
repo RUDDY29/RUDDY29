@@ -1,10 +1,12 @@
+![github-header-image](https://github.com/RUDDY29/ruddy29/assets/97404306/8c5ada5e-42b7-4af2-bcba-8221e2b062c7)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Pandey</h1>
 <h2 align="center">"Passionate MERN Stack Engineer | Competitive Programmer | Expert in Data Structures and Algorithms"</h2>
 
 <p align="left">With a strong foundation in Data Structures and Algorithms, I thrive on solving complex problems and building efficient, scalable web applications.<br><br>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React.js, and Node.js. I enjoy crafting full-stack applications. <br>
-🏆 Competitive Coder: Active in the competitive programming community, consistently participating in contests on platforms like Codeforces, LeetCode, and HackerRank.  <br>
+💻 MERN Stack Developer: Proficient in MongoDB, Express.js, React.js, and Node.js.  <br><br>
+🏆 Competitive Coder: Active in the competitive programming community, consistently participating in contests on platforms like Codeforces, LeetCode, and HackerRank.  <br><br>
 📚 Lifelong Learner: Constantly exploring new technologies and methodologies to stay at the cutting edge of web development and software engineering.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruddy29&label=Profile%20views&color=0e75b6&style=flat" alt="ruddy29" /> </p>
